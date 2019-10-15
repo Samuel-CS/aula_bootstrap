@@ -1,0 +1,49 @@
+
+body {
+    font: 15px, sans-serif;
+}
+
+.navbar {
+    background-color: rgb(170, 167, 167);
+}
+
+.QuemSouEu {
+    background-color: rgb(136, 122, 122);
+}
+
+.margin {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.generico {
+    background-color: rgb(99, 58, 58);
+}
+
+.container {
+    margin-top: 25px;
+    margin-left: 450px;
+    padding-bottom: 25px;
+}
+
+.midia {
+    background-color: rgba(168, 64, 64, 0.315);
+}
+
+.container-filme {
+    margin-left: 0px;
+
+}
+
+.bg-footer {
+    background-color: rgba(75, 53, 53, 0.466);
+}
+
+/* teste 
+
+https://www.imdb.com/title/tt1392190/
+https://www.imdb.com/title/tt0807832/
+https://www.imdb.com/title/tt0084787/
+https://www.imdb.com/title/tt0213338/
+
+/
